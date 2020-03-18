@@ -14,11 +14,11 @@ There are no class meetings this week. Please use this week to prepare for the o
 
 ## Week 1. March 23 - 27. Linear Programming and Static Optimization
 
-| Date | Time (EDT) | Activity | Topic | Required? |
+| Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
 | Monday, March 23 | 1:30 - 4pm | Office hours | | 
-| Tuesday, March 24 | 11-12:15pm | Class Meeting | :heavy_check_mark:|
-| Thursday, March 26 | 11-12:15pm | Class Meeting | :heavy_check_mark: |
+| Tuesday, March 24 | 11-12:15pm | Class Meeting | | :heavy_check_mark:|
+| Thursday, March 26 | 11-12:15pm | Class Meeting | | :heavy_check_mark: |
 | Friday, March 27 | 11:30 - 2pm (EDT) | Lab Session | |
 
 ## Week 2. March 30 - April 3. Dynamic Optimization and Optimal Control
