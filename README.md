@@ -14,10 +14,12 @@ There are no class meetings this week. Please use this week to prepare for the o
 
 ## Week 1. March 23 - 27. Linear Programming and Steady State Optimization
 
-* Monday, March 23. Virtual office hours, 1:30 - 4pm EDT
-* Tuesday, March 24. Class Meeting, 11-12:15pm (EDT)
-* Thursday, March 26. Class Meeting, 11-12:15pm (EDT)
-* Friday, March 27. Lab Session, 11:30 - 2pm (EDT)
+| Date | Time (EDT) | Activity | Required? |
+| :--  | :--  | :------  | :---: |
+| Monday, March 23 | 1:30 - 4pm | Office hours |
+| Tuesday, March 24 | 11-12:15pm | Class Meeting |
+| Thursday, March 26 | 11-12:15pm | Class Meeting |
+| Friday, March 27 | 11:30 - 2pm (EDT) | Lab Session |
 
 ## Week 2. March 30 - April 3. Dynamic Optimization and Optimal Control
 
