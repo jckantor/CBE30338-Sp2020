@@ -26,40 +26,40 @@ There are no class meetings this week. Please use this week to prepare for the o
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
 | Mon., Mar 23 | 1:30 - 4pm | Office hours | | 
-| Tues., Mar 24 | 11-12:15pm | Class Meeting | | :heavy_check_mark:|
-| Thurs., Mar 26 | 11-12:15pm | Class Meeting | | :heavy_check_mark: |
-| Fri., Mar 27 | 11:30 - 2pm (EDT) | Lab Session | |
+| Tues., Mar 24 | 11-12:15pm | Class Meeting | Open-Loop Optimization | :heavy_check_mark:|
+| Thurs., Mar 26 | 11-12:15pm | Class Meeting | Closed-Loop Optimization | :heavy_check_mark: |
+| Fri., Mar 27 | 11:30 - 2pm (EDT) | Lab Session | Optimal Feedback of the Temperature Control Lab |
 
 ## Week 3. April 6 - April 10. Model Predictive Control
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
 | Mon., March 23 | 1:30 - 4pm | Office hours | | 
-| Tuesday, March 24 | 11-12:15pm | Class Meeting | | :heavy_check_mark:|
-| Thursday, March 26 | 11-12:15pm | Class Meeting | | :heavy_check_mark: |
-| Friday, March 27 | 11:30 - 2pm (EDT) | Lab Session | |
+| Tuesday, March 24 | 11-12:15pm | Class Meeting | What is Model Predictive Control?  | :heavy_check_mark:|
+| Thursday, March 26 | 11-12:15pm | Class Meeting | Implementing MPC | :heavy_check_mark: |
+| Friday, March 27 | 11:30 - 2pm (EDT) | Lab Session | Simple MPC Control for the Temperature Control Lab |
 
-## Week 4 April 13 - April 17. 
-
-| Date | Time (EDT) | Activity | Topic | Attendance Required? |
-| :--  | :--  | :------  | :--- | :---: |
-| Mon., March 23 | 1:30 - 4pm | Office hours | | 
-| Tuesday, March 24 | 11-12:15pm | Class Meeting | | :heavy_check_mark:|
-| Thursday, March 26 | 11-12:15pm | Class Meeting | | :heavy_check_mark: |
-| Friday, March 27 | 11:30 - 2pm (EDT) | Lab Session | |
-
-## Week 5 April 20 - April 24.
+## Week 4 April 13 - April 17. Writing Optimization Models
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
 | Mon., March 23 | 1:30 - 4pm | Office hours | | 
-| Tuesday, March 24 | 11-12:15pm | Class Meeting | | :heavy_check_mark:|
-| Thursday, March 26 | 11-12:15pm | Class Meeting | | :heavy_check_mark: |
-| Friday, March 27 | 11:30 - 2pm (EDT) | Lab Session | |
+| Tuesday, March 24 | 11-12:15pm | Class Meeting | Introducing Pyomo | :heavy_check_mark:|
+| Thursday, March 26 | 11-12:15pm | Class Meeting | Blending Problems | :heavy_check_mark: |
+| Friday, March 27 | 11:30 - 2pm (EDT) | Lab Session | TBD |
+
+## Week 5 April 20 - April 24. Applications of Optimization
+
+| Date | Time (EDT) | Activity | Topic | Attendance Required? |
+| :--  | :--  | :------  | :--- | :---: |
+| Mon., March 23 | 1:30 - 4pm | Office hours | | 
+| Tuesday, March 24 | 11-12:15pm | Class Meeting | Planning Problems | :heavy_check_mark:|
+| Thursday, March 26 | 11-12:15pm | Class Meeting | Optimization under Uncertainty | :heavy_check_mark: |
+| Friday, March 27 | 11:30 - 2pm (EDT) | Lab Session | TBD |
 
 ## Week 6 April 27 - April 29. Wrap Up
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
 | Mon., March 23 | 1:30 - 4pm | Office hours | | 
-| Tuesday, March 24 | 11-12:15pm | Class Meeting | Wrapping up the semester. | :heavy_check_mark:|
+| Tuesday, March 24 | 11-12:15pm | Class Meeting | [Map of Control Theory](https://engineeringmedia.com/) | :heavy_check_mark:|
