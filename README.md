@@ -1,40 +1,35 @@
 # CBE30338 - Spring 2020 Continuation
 
-This is a repository of class materials for for on-line continuation of [CBE 303338 Chemical Process Control](http://jckantor.github.io/CBE30338/) for Spring, 2020.  The shift from a traditional in-person course to a course delivered on-line to a distributed audience has dictated a shift in teaching methods, materials, and format. The purpose of this repository is to organize the materials and make them accessible to students, teaching assistants, and any other interested party. 
+This is a repository of class materials for for on-line continuation of [CBE 303338 Chemical Process Control](http://jckantor.github.io/CBE30338/) for Spring, 2020. The shift from a traditional in-person course to an on-line course for a distributed audience, caused by the global outbreak of COVID-19, dictates a shift in teaching methods, materials, and format. The purpose of this repository is to organize the materials and make them accessible to students, teaching assistants, and any other interested party. 
 
-## Week 0.  March 16 -- 22
+## Week 0.  March 16 -- 22, Preparation.
 
-There are no class meetings this week. However, please use this week to prepare for the on-line continuation to commence on March 23. To this end, please pay attention to the following the following details:
+There are no class meetings this week. Please use this week to prepare for the on-line continuation to commence on March 23. Pay attention to the following the following details:
 
-* 
+* We will be making extensive use of Zoom for office hours, on-classes, and laboratory sessions. Please verify that you can access Zoom by joining the test meeting **with video** at [https://zoom.us/test](https://zoom.us/test). 
 
+* Please confirm that you have a working installation of the Anaconda distribution of Python. If in doubt, reinstall a fresh download available from [Anaconda.com](https://www.anaconda.com/).
 
-Do they have a laptop or home computer? 
-Do they have a webcam and the Zoom app installed?
-Do they have access to their digital files backed up on the cloud (Google Drive)?
-Do they have access to content resources (books, articles, videos)?
-What is their experience in learning online? What assistance might they need?  
+**Please let me know immediately if you don't have access to a laptop or you don't have adequate internet connectivity. The University has resources available to assist with these situations.**
 
+## Week 1. March 23 - 27. Linear Programming and Steady State Optimization
 
+* Monday, March 23. Virtual office hours, 1:30 - 4pm EDT
+* Tuesday, March 24. Class Meeting, 11-12:15pm (EDT)
+* Thursday, March 26. Class Meeting, 11-12:15pm (EDT)
+* Friday, March 27. Lab Session, 11:30 - 2pm (EDT)
 
-
-##
-
-
-Week 1
+## Week 2. March 30 - April 3. Dynamic Optimization and Optimal Control
 
 
-Week 2
+## Week 3. April 6 - April 10. Model Predictive Control
 
 
-Week 3
+## Week 4 April 13 - April 17. 
 
 
-Week 4 (if needed)
+## Week 5 April 20 - April 24.
 
 
-Week 5 (if needed)
-
-
-Week 6 (if needed)
+## Week 6 April 27 - April 29. 
 
