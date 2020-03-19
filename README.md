@@ -37,6 +37,7 @@ There are no class meetings this week. Please use this week to prepare for the o
 | 4/6(M) | 1:30-4pm | Office hours | | 
 | 4/7(T) | 11-12:15pm | Class Meeting | What is Model Predictive Control?  | :heavy_check_mark:|
 | 4/9(Th) | 11-12:15pm | Class Meeting | Implementing MPC | :heavy_check_mark: |
+| 4/10(F) | 11:30-2pm | Lab Session | No meeting (Good Friday) |
 
 ## Week 4 April 13 - April 17. Writing Optimization Models
 
