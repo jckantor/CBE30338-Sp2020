@@ -1,6 +1,6 @@
 # CBE30338 - Spring 2020 Continuation
 
-This is a repository of class materials for for on-line continuation of [CBE 303338 Chemical Process Control](http://jckantor.github.io/CBE30338/) for Spring, 2020. The shift from a traditional in-person course to an on-line course for a distributed audience, caused by the global outbreak of COVID-19, dictates a shift in teaching methods, materials, and format. The purpose of this repository is to organize the materials and make them accessible to students, teaching assistants, and any other interested party. 
+This is a repository of class materials for for on-line continuation of [CBE 303338 Chemical Process Control](http://jckantor.github.io/CBE30338/) for Spring, 2020. The decision to shift from a traditional in-person course to an on-line course for a distributed audience, caused by the global outbreak of COVID-19, has dictated a shift in teaching methods, materials, and format. The purpose of this repository is to re-organize existing materials materials ([CBE 30338](http://jckantor.github.io/CBE30338/) and [CBE 32338](https://jckantor.github.io/CBE32338/)), add new materials,  and make them accessible to students, teaching assistants, an other interested parties. Eventually these materials will be integrated back into existing course repositories.
 
 ## Week 0.  March 16 - 22. Preparation.
 
