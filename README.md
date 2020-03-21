@@ -59,9 +59,14 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 4/23(Th) | 11-12:15pm | Class Meeting | Optimization under Uncertainty | :heavy_check_mark: |
 | 4/24(F) | 11:30-2pm | Lab Session | TBD |
 
-## Week 6 April 27 - April 29. Wrap Up
+## Week 6 April 27 - April 29. Course Wrap Up
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/27(M) | 1:30-4pm | Office hours | | 
-| 4/28(T) | 11-12:15pm | Class Meeting | [Map of Control Theory](https://engineeringmedia.com/) | :heavy_check_mark:|
+| 4/28(T) | 11-12:15pm | Class Meeting | Introduction to the Final Project | :heavy_check_mark:|
+
+
+## Week 7 May 4 - May 8. Final Project
+
+The course culminates with the delivery of a final project due at 12:30pm on Friday, May 8th (the end time of the final exam normally scheduled for the course.) 
