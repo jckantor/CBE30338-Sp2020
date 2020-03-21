@@ -69,4 +69,9 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 
 ## Week 7. (May 4 - May 8) Final Project
 
-The course culminates with the delivery of a final project due at 12:30pm on Friday, May 8th (the end time of the final exam normally scheduled for the course.) 
+The course culminates with the delivery of a final project due at 12:30pm on Friday, May 8th (the end time of the final exam normally scheduled for the course.) There will be regular offices hours this week, and by appointment.
+
+| Date | Time (EDT) | Activity | Topic | Attendance Required? |
+| :--  | :--  | :------  | :--- | :---: |
+| 5/4(M) | 1:30-4pm | Office hours | |
+
