@@ -14,6 +14,8 @@ There are no class meetings this week. Please use this week to prepare for the o
 
 ## Week 1. March 23 - 27. Linear Programming and Static Optimization
 
+Class meetings begin on week 1. Each of the sessions scheduled below will be done as a Zoom meeting. To protect privacy, the specific Zoom meeting links are available through the course management system. Attendance will be taken for each session marked as required.
+
 | Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 3/23(M) | 1:30-4pm | Office hours | | 
