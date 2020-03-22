@@ -21,7 +21,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 3/23(M) | 1:30-4pm | Office hours | | 
 | 3/24(T) | 11-12:15pm | Class Meeting | Introduction to Linear Programming | :heavy_check_mark:|
 | 3/26(Th) | 11-12:15pm | Class Meeting | Static Controllability of a Linear System | :heavy_check_mark: |
-| 3/27(F) | 11:30-2pm | Lab Session | Static Control of the Temperature Control Lab |
+| 3/27(F) | 11:30-2pm | Lab Session | Parameter Fitting |
 
 ## Week 2. (March 30 - April 3) Dynamic Optimization and Optimal Control
 
@@ -30,7 +30,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 3/30(M) | 1:30-4pm | Office hours | | 
 | 3/31(T) | 11-12:15pm | Class Meeting | Open-Loop Optimization | :heavy_check_mark:|
 | 4/2(Th) | 11-12:15pm | Class Meeting | Closed-Loop Optimization | :heavy_check_mark: |
-| 4/3(F) | 11:30-2pm | Lab Session | Optimal Feedback for the Temperature Control Lab |
+| 4/3(F) | 11:30-2pm | Lab Session | Static Control of the Temperature Control Lab |
 
 ## Week 3. (April 6 - April 10) Model Predictive Control
 
@@ -48,7 +48,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 4/13(M) | 1:30-4pm | Office hours | | 
 | 4/14(T) | 11-12:15pm | Class Meeting | Introducing Pyomo | :heavy_check_mark:|
 | 4/16(Th) | 11-12:15pm | Class Meeting | Blending Problems | :heavy_check_mark: |
-| 4/17(F) | 11:30-2pm | Lab Session | MPC for the Temperature Control Lab |
+| 4/17(F) | 11:30-2pm | Lab Session | Optimal Feedback for the Temperature Control Lab |
 
 ## Week 5. (April 20 - April 24) Applications of Optimization
 
@@ -57,7 +57,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 4/20(M) | 1:30-4pm | Office hours | | 
 | 4/21(T) | 11-12:15pm | Class Meeting | Planning Problems | :heavy_check_mark:|
 | 4/23(Th) | 11-12:15pm | Class Meeting | Optimization under Uncertainty | :heavy_check_mark: |
-| 4/24(F) | 11:30-2pm | Lab Session | TBD |
+| 4/24(F) | 11:30-2pm | Lab Session | MPC for the Temperature Control Lab |
 
 ## Week 6. (April 27 - April 29) Course Wrap Up
 
@@ -69,9 +69,10 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 
 ## Week 7. (May 4 - May 8) Final Project
 
-The course culminates with the delivery of a final project due at 12:30pm on Friday, May 8th (the end time of the final exam normally scheduled for the course.) There will be regular offices hours this week, and by appointment.
+The course culminates with the delivery of a final project due at 12:30pm on Friday, May 8th (the end time of the final exam normally scheduled for the course.) There will be regular offices hours this week, and additional hours by appointment.
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
 | 5/4(M) | 1:30-4pm | Office hours | |
+| -- | --- | Office hours by appointment |
 
