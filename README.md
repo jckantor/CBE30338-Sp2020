@@ -30,7 +30,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 3/30(M) | 1:30-4pm | Office hours | | 
 | 3/31(T) | 11-12:15pm | Class Meeting | Open-Loop Optimization | :heavy_check_mark:|
 | 4/2(Th) | 11-12:15pm | Class Meeting | Closed-Loop Optimization | :heavy_check_mark: |
-| 4/3(F) | 11:30-2pm | Lab Session | Static Control of the Temperature Control Lab |
+| 4/3(F) | 11:30-2pm | Lab Session | Static Controllability |
 
 ## Week 3. (April 6 - April 10) Model Predictive Control
 
@@ -48,7 +48,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 4/13(M) | 1:30-4pm | Office hours | | 
 | 4/14(T) | 11-12:15pm | Class Meeting | Introducing Pyomo | :heavy_check_mark:|
 | 4/16(Th) | 11-12:15pm | Class Meeting | Blending Problems | :heavy_check_mark: |
-| 4/17(F) | 11:30-2pm | Lab Session | Optimal Feedback for the Temperature Control Lab |
+| 4/17(F) | 11:30-2pm | Lab Session | Optimal Feedback Control |
 
 ## Week 5. (April 20 - April 24) Applications of Optimization
 
@@ -57,7 +57,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 4/20(M) | 1:30-4pm | Office hours | | 
 | 4/21(T) | 11-12:15pm | Class Meeting | Planning Problems | :heavy_check_mark:|
 | 4/23(Th) | 11-12:15pm | Class Meeting | Optimization under Uncertainty | :heavy_check_mark: |
-| 4/24(F) | 11:30-2pm | Lab Session | MPC for the Temperature Control Lab |
+| 4/24(F) | 11:30-2pm | Lab Session | Model Predictive Control |
 
 ## Week 6. (April 27 - April 29) Course Wrap Up
 
