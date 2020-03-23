@@ -75,4 +75,5 @@ The course culminates with the delivery of a final project due at 12:30pm on Fri
 | :--  | :--  | :------  | :--- | :---: |
 | 5/4(M) | 1:30-4pm | Office hours | |
 | -- | --- | Office hours by appointment |
+| 5/9(F) | Noon | Final Project Due | |
 
