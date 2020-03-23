@@ -12,7 +12,7 @@ There are no class meetings this week. Please use this week to prepare for the o
 
 **Please let me know immediately if you don't have access to a laptop or you don't have adequate internet connectivity. The University has resources available to assist with these situations.**
 
-## Week 1. (March 23 - 27) Linear Programming and Static Optimization
+## Week 1. (March 23 - 27) Linear Optimization
 
 Class meetings begin on week 1. Each of the sessions scheduled below will be done as a Zoom meeting. To protect privacy, the specific Zoom meeting links are available through the course management system. Attendance will be taken for each session marked as required.
 
@@ -23,7 +23,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 3/26(Th) | 11-12:15pm | Class Meeting | Linear Programming | :heavy_check_mark: |
 | 3/27(F) | 11:30-2pm | Lab Session | Parameter Fitting |
 
-## Week 2. (March 30 - April 3) Dynamic Optimization and Optimal Control
+## Week 2. (March 30 - April 3) Static Controllability and Discrete Time Models
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
@@ -32,7 +32,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 4/2(Th) | 11-12:15pm | Class Meeting | Discrete time models | :heavy_check_mark: |
 | 4/3(F) | 11:30-2pm | Lab Session | Static Controllability |
 
-## Week 3. (April 6 - April 10) Model Predictive Control
+## Week 3. (April 6 - April 10) Writing Optimization Models
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
@@ -41,7 +41,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 4/9(Th) | 11-12:15pm | Class Meeting | Introducting Pyomo | :heavy_check_mark: |
 | 4/10(F) | 11:30-2pm | Lab Session | No meeting (Good Friday) |
 
-## Week 4. (April 13 - April 17) Writing Optimization Models
+## Week 4. (April 13 - April 17) Trajectory Optimization
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
@@ -50,7 +50,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 4/16(Th) | 11-12:15pm | Class Meeting | Trajectory Tracking | :heavy_check_mark: |
 | 4/17(F) | 11:30-2pm | Lab Session | Optimal Control |
 
-## Week 5. (April 20 - April 24) Applications of Optimization
+## Week 5. (April 20 - April 24) Model Predictive Control
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
@@ -59,7 +59,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 4/23(Th) | 11-12:15pm | Class Meeting | Implementing MPC | :heavy_check_mark: |
 | 4/24(F) | 11:30-2pm | Lab Session | Model Predictive Control |
 
-## Week 6. (April 27 - April 29) Course Wrap Up
+## Week 6. (April 27 - April 29) User Interface
 
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
