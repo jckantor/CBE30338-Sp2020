@@ -30,8 +30,8 @@ Next, from the `Sketch` menu select `Upload`.  This will take a few seconds to c
 
 If you get `avrdude` errors there may be a problem with your laptop communicating with the Arduino hardware. Here are some things that have helped in these circumstanaces:
 
-* If you are working on a Mac, check the `Ports` submenu again. If there is no entry obviously associated with the Arduino, then reboot your Mac the Arduino connected by the USB cable. This will provide your Mac with an opportunity to download an appropriate device driver on restart.
-* If you are working on Linux, you may need to login as root or superuser in order for the Arduino IDE to access the hardware port.
+* If you are working on a Mac, check the `Ports` submenu again. If there is no entry obviously associated with the Arduino, then reboot your Mac with the Arduino connected by USB. This will provide your Mac with an opportunity to recognize the device and to download an appropriate device driver during the restart.
+* If you are working on Linux, try logging in as root or superuser to give the Arduino IDE permission to access your computer hardware.
 
 ### 5. Verify
 
