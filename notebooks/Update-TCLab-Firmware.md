@@ -26,7 +26,9 @@ Use the Arduino IDE file menu to open the `TCLab-sketch.ino` file that you downl
 
 Under the `Sketch` menu, select `Verify/Compile`. You should  get a message at the bottom of the edit window indicating success. If you encounter errors at this step, confirm that that file displayed in the Arduino IDE edit window is exactly the same as it appears in the Github repository.
 
-Next, from the `Sketch` menu select `Upload`.  This will take a few seconds to complete. At this point you are finished with the firmware upload. You can close the Arduino IDE application. If you get `avrdude` errors, there may be a problem with your laptop communicating with the Arduino hardware. Here are some things that have helped in these circumstanaces:
+Next, from the `Sketch` menu select `Upload`.  This will take a few seconds to complete. At this point you are finished with the firmware upload. You can close the Arduino IDE application. 
+
+If you get `avrdude` errors there may be a problem with your laptop communicating with the Arduino hardware. Here are some things that have helped in these circumstanaces:
 
 * If you are working on a Mac, check the `Ports` submenu again. If there is no entry obviously associated with the Arduino, then reboot your Mac the Arduino connected by the USB cable. This will provide your Mac with an opportunity to download an appropriate device driver on restart.
 * If you are working on Linux, you may need to login as root or superuser in order for the Arduino IDE to access the hardware port.
