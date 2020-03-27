@@ -21,7 +21,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | 3/23(M) | 1:30-4pm | Office hours | | 
 | 3/24(T) | 11-12:15pm | Class Meeting | [Case Study: Thermal Cycling for PCR](https://colab.research.google.com/drive/13jKfeyvHW8unSBQWTN_Fp6n0DTJEn1Q4) | :heavy_check_mark:|
 | | | | [Presentation Slides](https://docs.google.com/presentation/d/1NLf1kCBUSg0uxEjTUSPpqtXvUJdSzgWupt7clZVAk0k/edit?usp=sharing) | |
-| 3/26(Th) | 11-12:15pm | Class Meeting | Linear Optimization | :heavy_check_mark: |
+| 3/26(Th) | 11-12:15pm | Class Meeting | [Linear Optimization](https://github.com/jckantor/CBE30338/blob/master/notebooks/06.02-Linear-Production-Model.ipynb) | :heavy_check_mark: |
 | | | | [Presentation Slides](https://docs.google.com/presentation/d/1EaDfchk8Qhjl-NovE8CLofdHOu7Qou7pRzFxHs4iAUc/edit?usp=sharing) | |
 | 3/27(F) | 11:30-2pm | Lab Session | [Update TCLab Firmware](https://github.com/jckantor/CBE30338-Sp2020/blob/master/notebooks/Update-TCLab-Firmware.md) |
 
