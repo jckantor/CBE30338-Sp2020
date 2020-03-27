@@ -20,7 +20,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | :--  | :--  | :------  | :--- | :---: |
 | 3/23(M) | 1:30-4pm | Office hours | | 
 | 3/24(T) | 11-12:15pm | Class Meeting | [Case Study: Thermal Cycling for PCR](https://colab.research.google.com/drive/13jKfeyvHW8unSBQWTN_Fp6n0DTJEn1Q4) | :heavy_check_mark:|
-| 3/26(Th) | 11-12:15pm | Class Meeting | Linear Programming | :heavy_check_mark: |
+| 3/26(Th) | 11-12:15pm | Class Meeting | Linear Optimization | :heavy_check_mark: |
 | 3/27(F) | 11:30-2pm | Lab Session | Parameter Fitting |
 
 ## Week 2. (March 30 - April 3) Static Controllability and Discrete Time Models
