@@ -27,7 +27,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 
 [[how to download notebooks from github](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b74ad8d-4dcc-43f6-85ff-ab8f014b338b)]
 
-| Date | Time (EDT) | Activity | Topic | Attendance Required? |
+| Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 3/30(M) | 1:30-4pm | Office hours | | 
 | 3/31(T) | 11-12:15pm | Class Meeting | Linear Programming [[slides](https://docs.google.com/presentation/d/1iBKhN-svpNa--ToTKeZRBmCsQKT3gL8FH2kKrmN1yzI/edit?usp=sharing)] [[linprog example](https://colab.research.google.com/drive/12wZ9691OY8jN5H5FM-hWTMPuCmxw7xDm)] | :heavy_check_mark:|
@@ -36,7 +36,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 
 ## Week 3. (April 6 - April 10) Writing Optimization Models
 
-| Date | Time (EDT) | Activity | Topic | Attendance Required? |
+| Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/6(M) | 1:30-4pm | Office hours | | 
 | 4/7(T) | 11-12:15pm | Class Meeting | Open-loop optimization [[slides](https://docs.google.com/presentation/d/1EL_0QSxPVOH_qSkYqLZLV-kZPiUCyXrP-Zw8uDj8IeM/edit?usp=sharing)]  | :heavy_check_mark:|
@@ -45,7 +45,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 
 ## Week 4. (April 13 - April 17) Trajectory Optimization
 
-| Date | Time (EDT) | Activity | Topic | Attendance Required? |
+| Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/13(M) | 1:30-4pm | Office hours | | 
 | 4/14(T) | 11-12:15pm | Class Meeting | Trajectory Optimization [[slides](https://docs.google.com/presentation/d/14ZtjUxRk7U5jBrvEFLSgWcveC0R_6wdPjvHTFoIgDC8/edit?usp=sharing)] | :heavy_check_mark:|
@@ -54,7 +54,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 
 ## Week 5. (April 20 - April 24) Model Predictive Control
 
-| Date | Time (EDT) | Activity | Topic | Attendance Required? |
+| Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/20(M) | 1:30-4pm | Office hours | | 
 | 4/21(T) | 11-12:15pm | Class Meeting | Model Predictive Control [[slides](https://docs.google.com/presentation/d/1eu7CtBDZvB0R8fm45XFrucFKGMygGsnrxMJ8f7iHLLY/edit?usp=sharing)] | :heavy_check_mark:|
@@ -63,7 +63,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 
 ## Week 6. (April 27 - April 29) User Interface
 
-| Date | Time (EDT) | Activity | Topic | Attendance Required? |
+| Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/27(M) | 1:30-4pm | Office hours | | 
 | 4/28(T) | 11-12:15pm | Class Meeting | Introduction to the Final Project [[slides](https://docs.google.com/presentation/d/1K-2D0-JO755doMRzeDfQYSUm0vNrSvexvI5c58ejBIo/edit?usp=sharing)] | :heavy_check_mark:|
@@ -73,7 +73,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 
 The course culminates with the delivery of a final project due at 12:30pm on Friday, May 8th (the end time of the final exam normally scheduled for the course.) There will be regular offices hours this week, and additional hours by appointment.
 
-| Date | Time (EDT) | Activity | Topic | Attendance Required? |
+| Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 5/4(M) | 1:30-4pm | Office hours | |
 | -- | --- | Office hours by appointment |
