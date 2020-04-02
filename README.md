@@ -30,7 +30,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | Date | Time (EDT) | Activity | Topic | Attendance Required? |
 | :--  | :--  | :------  | :--- | :---: |
 | 3/30(M) | 1:30-4pm | Office hours | | 
-| 3/31(T) | 11-12:15pm | Class Meeting | Linear Programming in Python [[slides](https://docs.google.com/presentation/d/1iBKhN-svpNa--ToTKeZRBmCsQKT3gL8FH2kKrmN1yzI/edit?usp=sharing)] [[linprog example](https://colab.research.google.com/drive/12wZ9691OY8jN5H5FM-hWTMPuCmxw7xDm)] | :heavy_check_mark:|
+| 3/31(T) | 11-12:15pm | Class Meeting | Linear Programming [[slides](https://docs.google.com/presentation/d/1iBKhN-svpNa--ToTKeZRBmCsQKT3gL8FH2kKrmN1yzI/edit?usp=sharing)] [[linprog example](https://colab.research.google.com/drive/12wZ9691OY8jN5H5FM-hWTMPuCmxw7xDm)] | :heavy_check_mark:|
 | 4/2(Th) | 11-12:15pm | Class Meeting | Static Control and Operating Envelope [[slides](https://docs.google.com/presentation/d/1OJHFq7SEySG4bHJs43eIf8F7za99ofEiiRVdpOAyZWk/edit?usp=sharing)] | :heavy_check_mark: |
 | 4/3(F) | 11:30-2pm | Lab Session | Static Controllability [[identification](https://github.com/jckantor/CBE30338-Sp2020/blob/master/notebooks/04.00-Model-Identification.ipynb)] |
 
