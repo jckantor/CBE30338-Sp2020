@@ -39,7 +39,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/6(M) | 1:30-4pm | Office hours | | 
-| 4/7(T) | 11-12:15pm | Class Meeting | Open-loop optimization [[slides](https://docs.google.com/presentation/d/1EL_0QSxPVOH_qSkYqLZLV-kZPiUCyXrP-Zw8uDj8IeM/edit?usp=sharing)]  | :heavy_check_mark:|
+| 4/7(T) | 11-12:15pm | Class Meeting | Open-loop optimization [[slides](https://docs.google.com/presentation/d/1EL_0QSxPVOH_qSkYqLZLV-kZPiUCyXrP-Zw8uDj8IeM/edit?usp=sharing)] [[notebook](https://colab.research.google.com/drive/1GlQtjUaTiMmIdTwuZ5HvfdyL2o_hKrk5)] | :heavy_check_mark:|
 | 4/9(Th) | 11-12:15pm | Class Meeting | Introducting Pyomo [[slides](https://docs.google.com/presentation/d/1YRfomRa8RkKag8GIVD0WFM0MZ4sYFrJdVkUU-onUQXE/edit?usp=sharing)] | :heavy_check_mark: |
 | 4/10(F) | 11:30-2pm | Lab Session | No meeting (Good Friday) |
 
