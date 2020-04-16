@@ -49,7 +49,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | :--  | :--  | :------  | :--- | :---: |
 | 4/13(M) | 1:30-4pm | Office hours | | 
 | 4/14(T) | 11-12:15pm | Class Meeting | Integrating Feedforward and Feedback Control [[slides](https://docs.google.com/presentation/d/14ZtjUxRk7U5jBrvEFLSgWcveC0R_6wdPjvHTFoIgDC8/edit?usp=sharing)] [[notebook 1](https://github.com/jckantor/CBE30338-Sp2020/blob/master/notebooks/06.02-TCLab-Threaded-Interface-Version-1.ipynb)] [[notebook 2](https://github.com/jckantor/CBE30338-Sp2020/blob/master/notebooks/06.03-TCLab%20PCR%20UI%20Development.ipynb)] | :heavy_check_mark:|
-| 4/16(Th) | 11-12:15pm | Class Meeting (async?) | Trajectory Tracking [[slides](https://docs.google.com/presentation/d/1yfBlc-DCOx0bm4aPDpDAnAubQa1Lo28u123t1u_TvHs/edit?usp=sharing)] | :heavy_check_mark: |
+| 4/16(Th) | 11-12:15pm | Class Meeting (async?) | Trajectory Tracking [[notebook](https://colab.research.google.com/drive/1C5yDotTadCEZRqo8C6ttdFMhJne-7cu8)] | :heavy_check_mark: |
 | 4/17(F) | 11:30-2pm | Lab Session | Optimal Control |
 
 ## Week 5. (April 20 - April 24) Model Predictive Control
