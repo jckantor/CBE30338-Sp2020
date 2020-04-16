@@ -58,7 +58,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | :--  | :--  | :------  | :--- | :---: |
 | 4/20(M) | 1:30-4pm | Office hours | | 
 | 4/21(T) | 11-12:15pm | Class Meeting | Model Predictive Control [[slides](https://docs.google.com/presentation/d/1eu7CtBDZvB0R8fm45XFrucFKGMygGsnrxMJ8f7iHLLY/edit?usp=sharing)] | :heavy_check_mark:|
-| 4/23(Th) | 11-12:15pm | Class Meeting | Implementing MPC [[slides](https://docs.google.com/presentation/d/1V1G3Ha7DFEX52xcxhzb38AVX8vDyz5oJqH-37YHmLuw/edit?usp=sharing)] | :heavy_check_mark: |
+| 4/23(Th) | 11-12:15pm | Class Meeting | Implementing MPC [[notebook](https://colab.research.google.com/drive/1C5yDotTadCEZRqo8C6ttdFMhJne-7cu8)] | :heavy_check_mark: |
 | 4/24(F) | 11:30-2pm | Lab Session | Model Predictive Control |
 
 ## Week 6. (April 27 - April 29) User Interface
