@@ -58,7 +58,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | :--  | :--  | :------  | :--- | :---: |
 | 4/20(M) | 1:30-4pm | Office hours | | 
 | 4/21(T) | 11-12:15pm | Class Meeting | Model Predictive Control [[notebook](https://colab.research.google.com/drive/1Hlv2vJ7l7MuPlkJCVrEXGkVCCpqBD-Ed)] | :heavy_check_mark:|
-| 4/23(Th) | 11-12:15pm | Class Meeting | Introduction to the Final Project [[instructions]()] | :heavy_check_mark: |
+| 4/23(Th) | 11-12:15pm | Class Meeting | Introduction to the Final Project [[instructions](https://github.com/jckantor/CBE30338-Sp2020/blob/master/notebooks/final-project-instructions.md)] | :heavy_check_mark: |
 | 4/24(F) | 11:30-2pm | Lab Session | Model Predictive Control |
 
 ## Week 6. (April 27 - April 29) User Interface
