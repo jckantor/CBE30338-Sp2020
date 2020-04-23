@@ -58,7 +58,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | :--  | :--  | :------  | :--- | :---: |
 | 4/20(M) | 1:30-4pm | Office hours | | 
 | 4/21(T) | 11-12:15pm | Class Meeting | Model Predictive Control [[notebook](https://colab.research.google.com/drive/1Hlv2vJ7l7MuPlkJCVrEXGkVCCpqBD-Ed)] | :heavy_check_mark:|
-| 4/23(Th) | 11-12:15pm | Class Meeting | Implementing MPC [[notebook](https://colab.research.google.com/drive/1C5yDotTadCEZRqo8C6ttdFMhJne-7cu8)] | :heavy_check_mark: |
+| 4/23(Th) | 11-12:15pm | Class Meeting | Introduction to the Final Project [[instructions]()] | :heavy_check_mark: |
 | 4/24(F) | 11:30-2pm | Lab Session | Model Predictive Control |
 
 ## Week 6. (April 27 - April 29) User Interface
@@ -66,7 +66,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/27(M) | 1:30-4pm | Office hours | | 
-| 4/28(T) | 11-12:15pm | Class Meeting | Introduction to the Final Project [[slides](https://docs.google.com/presentation/d/1K-2D0-JO755doMRzeDfQYSUm0vNrSvexvI5c58ejBIo/edit?usp=sharing)] | :heavy_check_mark:|
+| 4/28(T) | 11-12:15pm | Class Meeting | Final Project Q&A | :heavy_check_mark:|
 
 
 ## Week 7. (May 4 - May 8) Final Project
