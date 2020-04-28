@@ -40,7 +40,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | :--  | :--  | :------  | :--- | :---: |
 | 4/6(M) | 1:30-4pm | Office hours | | 
 | 4/7(T) | 11-12:15pm | Class Meeting | Open-loop optimization [[slides](https://docs.google.com/presentation/d/1EL_0QSxPVOH_qSkYqLZLV-kZPiUCyXrP-Zw8uDj8IeM/edit?usp=sharing)] [[notebook](https://colab.research.google.com/drive/1GlQtjUaTiMmIdTwuZ5HvfdyL2o_hKrk5)] | :heavy_check_mark:|
-| 4/9(Th) | 11-12:15pm | Class Meeting | Introducting Pyomo [[slides](https://docs.google.com/presentation/d/1YRfomRa8RkKag8GIVD0WFM0MZ4sYFrJdVkUU-onUQXE/edit?usp=sharing)] | :heavy_check_mark: |
+| 4/9(Th) | 11-12:15pm | Class Meeting | Feedforward Control Prototype [[slides](https://docs.google.com/presentation/d/1YRfomRa8RkKag8GIVD0WFM0MZ4sYFrJdVkUU-onUQXE/edit?usp=sharing)] | :heavy_check_mark: |
 | 4/10(F) | 11:30-2pm | Lab Session | No meeting (Good Friday) |
 
 ## Week 4. (April 13 - April 17) Trajectory Optimization
@@ -48,8 +48,8 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/13(M) | 1:30-4pm | Office hours | | 
-| 4/14(T) | 11-12:15pm | Class Meeting | Trajectory Optimization [[slides](https://docs.google.com/presentation/d/14ZtjUxRk7U5jBrvEFLSgWcveC0R_6wdPjvHTFoIgDC8/edit?usp=sharing)] | :heavy_check_mark:|
-| 4/16(Th) | 11-12:15pm | Class Meeting (async?) | Trajectory Tracking [[slides](https://docs.google.com/presentation/d/1yfBlc-DCOx0bm4aPDpDAnAubQa1Lo28u123t1u_TvHs/edit?usp=sharing)] | :heavy_check_mark: |
+| 4/14(T) | 11-12:15pm | Class Meeting | Integrating Feedforward and Feedback Control [[slides](https://docs.google.com/presentation/d/14ZtjUxRk7U5jBrvEFLSgWcveC0R_6wdPjvHTFoIgDC8/edit?usp=sharing)] [[notebook 1](https://github.com/jckantor/CBE30338-Sp2020/blob/master/notebooks/06.02-TCLab-Threaded-Interface-Version-1.ipynb)] [[notebook 2](https://github.com/jckantor/CBE30338-Sp2020/blob/master/notebooks/06.03-TCLab%20PCR%20UI%20Development.ipynb)] | :heavy_check_mark:|
+| 4/16(Th) | 11-12:15pm | Class Meeting | Trajectory Tracking [[notebook](https://colab.research.google.com/drive/1C5yDotTadCEZRqo8C6ttdFMhJne-7cu8)] | :heavy_check_mark: |
 | 4/17(F) | 11:30-2pm | Lab Session | Optimal Control |
 
 ## Week 5. (April 20 - April 24) Model Predictive Control
@@ -57,8 +57,8 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/20(M) | 1:30-4pm | Office hours | | 
-| 4/21(T) | 11-12:15pm | Class Meeting | Model Predictive Control [[slides](https://docs.google.com/presentation/d/1eu7CtBDZvB0R8fm45XFrucFKGMygGsnrxMJ8f7iHLLY/edit?usp=sharing)] | :heavy_check_mark:|
-| 4/23(Th) | 11-12:15pm | Class Meeting | Implementing MPC [[slides](https://docs.google.com/presentation/d/1V1G3Ha7DFEX52xcxhzb38AVX8vDyz5oJqH-37YHmLuw/edit?usp=sharing)] | :heavy_check_mark: |
+| 4/21(T) | 11-12:15pm | Class Meeting | Model Predictive Control [[notebook](https://colab.research.google.com/drive/1Hlv2vJ7l7MuPlkJCVrEXGkVCCpqBD-Ed)] | :heavy_check_mark:|
+| 4/23(Th) | 11-12:15pm | Class Meeting | Introduction to the Final Project [[instructions](https://github.com/jckantor/CBE30338-Sp2020/blob/master/notebooks/final-project-instructions.md)] | :heavy_check_mark: |
 | 4/24(F) | 11:30-2pm | Lab Session | Model Predictive Control |
 
 ## Week 6. (April 27 - April 29) User Interface
@@ -66,7 +66,7 @@ Class meetings begin on week 1. Each of the sessions scheduled below will be don
 | Date | Time (EDT) | Activity | Topic | Attendance Req'd? |
 | :--  | :--  | :------  | :--- | :---: |
 | 4/27(M) | 1:30-4pm | Office hours | | 
-| 4/28(T) | 11-12:15pm | Class Meeting | Introduction to the Final Project [[slides](https://docs.google.com/presentation/d/1K-2D0-JO755doMRzeDfQYSUm0vNrSvexvI5c58ejBIo/edit?usp=sharing)] | :heavy_check_mark:|
+| 4/28(T) | 11-12:15pm | Class Meeting | Final Project Q&A | :heavy_check_mark:|
 
 
 ## Week 7. (May 4 - May 8) Final Project
